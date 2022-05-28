@@ -1,0 +1,20 @@
+{
+  "name": "modal-alerts-react",
+  "version": "1.6.3",
+  "description": "Customizable alert modals for react",
+  "main": "Modal.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aryoam Navas",
+  "license": "MIT",
+  "keywords": [
+    "Alerts",
+    "Modals",
+    "React",
+    "Success",
+    "Warning",
+    "Error"
+  ],
+  "peerDependencies": {}
+}

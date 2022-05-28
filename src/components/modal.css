@@ -1,0 +1,65 @@
+body {
+  font-family: sans-serif;
+}
+
+.modal {
+  position: fixed;
+  z-index: 999;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 100vh;
+  background-color: rgba(0, 0, 0, 0.6);
+  display: none;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal.isOpen {
+  display: flex;
+}
+
+.containerModal {
+  position: relative;
+  width: 481px;
+  min-height: 246px;
+  max-height: 700px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 29px 25px 29px 25px;
+  text-align: center;
+  animation-name: modal;
+  animation-duration: 1s;
+  box-shadow: 0 10px 20px rgba(black, 1);
+}
+
+@keyframes modal {
+  from {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  to {
+    background-color: rgba(255, 255, 255, 1);
+  }
+}
+
+.closeModal {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  padding: 10px;
+}
+
+.closeModal:hover {
+  cursor: pointer;
+}
+
+.iconAlert {
+  width: 96px;
+  height: 96px;
+}
+
+.titleModal {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 40px;
+}
