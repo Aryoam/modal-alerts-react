@@ -2,6 +2,9 @@
 
 Customizable alert modals for react
 
+[LANDING PAGE DEMO](https://landing-modal-alerts-react.vercel.app/)
+![Demo](https://i.imgur.com/RGY8W99.png)
+
 ## Installation
 
 Install Modal Alerts for React with npm
@@ -11,6 +14,8 @@ Install Modal Alerts for React with npm
 ```
 
 ## Demo
+
+[LANDING PAGE DEMO](https://landing-modal-alerts-react.vercel.app/)
 
 ![Logo](https://i.imgur.com/GOh1mpu.png)
 

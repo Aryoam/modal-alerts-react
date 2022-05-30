@@ -1,6 +1,6 @@
 {
   "name": "modal-alerts-react",
-  "version": "1.6.3",
+  "version": "1.6.9",
   "description": "Customizable alert modals for react",
   "main": "Modal.jsx",
   "scripts": {
@@ -16,5 +16,9 @@
     "Warning",
     "Error"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Aryoam/modal-alerts-react"
+  },
   "peerDependencies": {}
 }
