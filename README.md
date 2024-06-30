@@ -145,7 +145,7 @@ Aryoam Navas.
 
 https://www.linkedin.com/in/aryoam-navas/
 
-https://github.com/Aryoam
+https://github.com/Aryoam/
 
 ## Support
 
